@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}    
+header{
+    background-color: bisque;
+}   
+header a{
+    text-decoration: none;
+    border: 1px solid white;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    color: burlywood;
+}
+footer{
+    background-color: bisque;
+    padding: 10px;
+} 
+footer p{
+    background-color: white;
+    margin: 10px;
+    
+}
+nav{
+    text-align: center;
+}    
+nav a{
+    text-align: none;
+    background-color: bisque;
+    
+}
+
+
+
+
