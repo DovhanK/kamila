@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+}
+
+.button {
+    text-align: center;
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    display: flex;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    border: 0px solid black;
+
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    padding: ;
+    width: 400px;
+    margin: ;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    margin: 30px 130px 140px 130px;
+
+}
+
+footer {
+    background-color: white;
+    padding: ;
+}
+
+footer a {
+    margin-right: 30px;
+}
+
+footer p {
+    font-size: 24px;
+}
+.noyt{
+    border: 10px ridge #36bbce;
+    margin-bottom: 50px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+section img{
+    padding: 10px;
+}
