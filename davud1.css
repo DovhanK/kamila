@@ -1,0 +1,36 @@
+head {
+
+}
+footer p{
+    background-color: aqua;
+}
+header h1{
+    color: black;
+    background-color: brown;
+
+}
+header p{
+    color: crimson;
+    background-color: cyan;
+}
+main{
+    text-decoration: none;
+}
+nav a{
+    text-decoration: none;
+    font-size: 30px;
+    border: 1px solid aqua;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: aqua;
+   
+}
+nav{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.aaa{
+    display: flex;
+    justify-content: center;
+}
