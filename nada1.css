@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+ }
+
+header{
+    background-color:lightblue;
+}
+
+#logo{
+    margin: 10px;
+}
+
+header a{
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    padding: 5px;
+}
+h1{
+    background-color: blue;
+    text-align: center;
+    color: yellow;
+}
+footer{
+    background-color: indianred;
+    padding: 5px;
+}
+footer p{
+    background-color: white;
+}
+nav{
+    text-align: center;
+    margin: 10px;
+}
+nav a{
+    background-color: darkblue;
+    color: white;
+    border:1px solid darkblue;
+    border-radius: 10px;
+    padding: 5px;
+}
+.prod{
+    background-color: white;
+    color: darkblue;
+}
+delivery{
+    background-color:blue;
+    color: yellow;
+}
+about_us{
+    background-color: blue;
+    color: yellow;
+}
+#wholesale{
+    background-color: blue;
+    color: yellow;
+}
+.vse{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+    
+
