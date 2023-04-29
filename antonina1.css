@@ -1,0 +1,99 @@
+header {
+    background-color: #FF00AC;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+}
+
+nav a {
+    background-color: #0000A3;
+    color:#06EDBD;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 1px;
+}
+
+main h3 {
+    color: #06EDBD;
+    background-color: #0000A3;
+    text-align: center;
+    
+}
+
+.mtwo {
+    width:300px;
+    height: 200px;
+}
+
+main img {
+    width: 230px;
+    height: 150px;
+}
+
+body {
+    background-color: #FEBCAE;
+}
+
+footer {
+    background-color: #FF00AC;
+    border-radius: 5px;
+    padding: 1px;
+}
+
+footer p {
+    color: #06EDBD;
+    padding: 2px;
+    background-color:  #0000A3;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.mthree {
+    width: 300px;
+    height: 300px;
+}
+
+.lina {
+    width: 30px;
+    height: 30px;
+    margin-top: 6px;
+    margin-bottom: 2px;
+}
+
+.lina2 {
+    width: 30px;
+    height: 30px;
+    margin-top: 6px;
+    margin-bottom: 2px;
+}
+
+.lina3 {
+    width: 30px;
+    height: 30px;
+    margin-top: 6px;
+    margin-bottom: 2px;
+}
+
+.lina4 {
+    width: 30px;
+    height: 30px;
+    margin-top: 6px;
+    margin-bottom: 2px;
+}
+
+.lyda {
+    border: 5px solid #FF00AC;
+}
+
