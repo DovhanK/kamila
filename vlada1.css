@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}    
+header{
+    text-align: center;
+    width: 400px;
+    border: 1px solid rgb(213, 150, 245);
+    margin-left: 400px;
+}   
+header a{
+    text-decoration: none;
+    border: 1px solid paleturquoise;
+    background-color: rgb(213, 150, 245);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(213, 150, 245);
+}
+footer{
+    background-color: rgb(213, 150, 245);
+    padding: 10px;
+} 
+footer p{
+    background-color: white;
+    margin: 10px;
+    
+}
+nav{
+    text-align: center;
+}    
+nav a{
+    text-align: none;
+    background-color: rgb(213, 150, 245);
+    
+}
+.books{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border-top: 7px double rgba(212, 109, 212, 0.863);;
+    border-bottom: 7px double rgba(212, 109, 212, 0.863);
+    background-color: rgb(224, 186, 243);
+}
+
+h2{
+    text-align: center;
+}
+.boook{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
