@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+    border: 1px solid lightblue;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+}
+.bs{
+    border: 1px solid lightgreen;
+    background-color: lightgreen;
+    border-radius: 20px;
+    text-align: center;
+}
+ul{
+    border: 1px solid lightgreen;
+    background-color: lightgreen;
+    border-radius: 30px;
+}
+.bd{
+    border: 1px solid lightgreen;
+    background-color: lightgreen;
+    border-radius: 20px;
+    text-align: center;
+}
+main p{
+    border: 3px solid lightgreen;
+    background-color: lightgreen;
+    border-radius: 20px;
+}
+main{
+    background-color: ble;
+}
+h4{
+    border: 3px solid lightgreen;
+    background-color: lightgreen;
+    border-radius: 30px;
+    text-align: center;
+}
+.bg{
+    text-align: center;
+}
+footer{
+    background-color: #00ff2aa9;
+}
+footer p {
+    border: 1px solid rgba(0, 255, 76, 0);
+    border-radius: 20px;
+    margin-right: 750px;
+    background-color:rgba(195, 0, 255, 0.178);
+}
+nav{
+ margin: 10px 0px;
+   text-align: center;
+}
+nav a{
+    text-decoration: none;
+   padding-right: 30px;
+   color: black;
+   border: 1px solid #300ef1;
+   padding-left: 30px;
+   border-radius: 30px;
+   background-color: #3179a3;
+}
+table{
+    background-color: lightgreen;
+    border: 30px;
+    border-radius: 20px;
+}
+.bb{
+    text-align: center;
+}
+.table{
+    display: flex;
+    justify-content: center;
+}
+.vce{
+    display: fex;
+}
+div{
+   display: flex;
+   justify-content: center; 
+}
