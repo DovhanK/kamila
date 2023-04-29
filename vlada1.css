@@ -2,10 +2,7 @@ body {
     font-family: sans-serif;
 }    
 header{
-    text-align: center;
-    width: 400px;
-    border: 1px solid rgb(213, 150, 245);
-    margin-left: 400px;
+    
 }   
 header a{
     text-decoration: none;
@@ -34,11 +31,14 @@ nav{
 nav a{
     text-align: none;
     background-color: rgb(213, 150, 245);
-    
+    text-decoration: none;
+    border: 0px solid rgba(212, 109, 212, 0.863);
+    border-radius: 5px;
+    padding: 5px;
 }
 .books{
     display: flex;
-    justify-content: center;
+    
     justify-content: space-around;
     border-top: 7px double rgba(212, 109, 212, 0.863);;
     border-bottom: 7px double rgba(212, 109, 212, 0.863);
@@ -52,7 +52,20 @@ h2{
     display: flex;
     justify-content: center;
 }
-
+.logo{
+    text-align: center;
+    width: 400px;
+    border: 1px solid rgb(213, 150, 245);
+    margin-left: 400px;
+}
+.kart{
+    text-align: center;
+}
+.rozdil{
+    border: 5px dotted rgba(212, 109, 212, 0.863);
+    background-color: rgb(224, 186, 243);
+    border-radius: 5px;
+}
 
 
 
