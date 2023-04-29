@@ -8,6 +8,10 @@ header img {
     width: 50px;
     height: 50px;
 }
+nav {
+    display: flex;
+    justify-content: center;
+}
 
 nav a {
     background-color: #0000A3;
@@ -28,6 +32,8 @@ main h3 {
 .mtwo {
     width:300px;
     height: 200px;
+    display: block;
+    margin: 0% auto;
 }
 
 main img {
@@ -96,4 +102,15 @@ h4 {
 .lyda {
     border: 5px solid #FF00AC;
 }
-
+.kapt{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    list-style: url("https://img.icons8.com/?size=1x&id=85301&format=png");
+}
+.kart1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
