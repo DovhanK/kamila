@@ -88,7 +88,7 @@ h4 {
     border: 10px double #FF00AC;
 }
 
-.navigation {
+.middle {
     margin-top: 660px;
     position: absolute;
     top: 50%;
@@ -98,6 +98,7 @@ h4 {
 
 .navigation {
     position: absolute;
+    bottom: 16px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
